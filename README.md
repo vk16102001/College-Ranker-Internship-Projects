@@ -4,7 +4,7 @@
 
 ## Domain -Transportation and Communication
 
-## Project Di fficulties level - Intermediate
+## Project Difficulties level - Intermediate
 
 ## Problem Statement:
 
